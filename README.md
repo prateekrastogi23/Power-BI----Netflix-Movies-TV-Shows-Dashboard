@@ -5,11 +5,11 @@ Netflix Movies & TV Shows Dashboard:
 
 A visually rich and interactive Power BI dashboard designed to explore and analyze Netflix content by genre, country, rating, year, and more. This dashboard delivers content insights, rating trends, and audience engagement metrics to help understand the Netflix catalog better.
 
-🎯 Purpose
+🎯 Purpose:
 
 The Netflix Analytics Dashboard is an intuitive Power BI solution that uncovers valuable insights from Netflix’s content library. It allows users to analyze trends in ratings, vote counts, genre popularity, and country-wise content distribution. This dashboard helps identify high-performing content types and supports data-driven decision-making for content strategy and user preferences.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 --📊 Power BI Desktop – For building interactive dashboards and report pages.
 
@@ -22,7 +22,7 @@ The Netflix Analytics Dashboard is an intuitive Power BI solution that uncovers 
 --📁 File Format – .pbix for the Power BI dashboard and .png for image previews.
 
 
-📊 Data Source
+📊 Data Source:
 
 --a. Source:
 Data was collected from public Netflix datasets available on platforms like Kaggle. The dataset includes key details such as movie and TV show titles, genres, ratings, countries, vote counts, and release years.
@@ -34,7 +34,7 @@ Data was collected from public Netflix datasets available on platforms like Kagg
 --Ratings Group: Bucketed IMDb ratings (0–10) used to group content by performance.
 --Country-wise Stats: Number of titles, average rating, and votes per country.
 
-📈 Features
+📈 Features:
 
 --a. Business Problem:
 Netflix has thousands of titles, making it hard to track which genres or regions perform best, or which titles attract the most engagement. This dashboard solves that by offering a clear visual breakdown of content performance, trends, and user preferences.
