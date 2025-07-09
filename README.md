@@ -10,15 +10,19 @@ A visually rich and interactive Power BI dashboard designed to explore and analy
 The Netflix Analytics Dashboard is an intuitive Power BI solution that uncovers valuable insights from Netflix’s content library. It allows users to analyze trends in ratings, vote counts, genre popularity, and country-wise content distribution. This dashboard helps identify high-performing content types and supports data-driven decision-making for content strategy and user preferences.
 
 🛠️ Tech Stack
-This dashboard was developed using the following tools and technologies:
 
 --📊 Power BI Desktop – For building interactive dashboards and report pages.
+
 --📂 Power Query – For data cleaning, shaping, and transformation before modeling.
+
 --🧠 DAX (Data Analysis Expressions) – Used to create dynamic measures and KPIs.
+
 --📝 Data Modeling – Designed using a star schema to support efficient querying across tables like ratings, genres, votes, countries, and years.
+
 --📁 File Format – .pbix for the Power BI dashboard and .png for image previews.
 
 📊 Data Source
+
 --a. Source:
 Data was collected from public Netflix datasets available on platforms like Kaggle. The dataset includes key details such as movie and TV show titles, genres, ratings, countries, vote counts, and release years.
 
